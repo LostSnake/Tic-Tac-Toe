@@ -1,0 +1,32 @@
+
+    {
+        
+        "number": 1,
+        "Question": "How old are you?",
+        "FirstAns": "A. 14 ",
+        "SecondAns": "B.13 ",
+        "ThirdAns": "C. 18",
+    
+
+    
+        
+            "book1": {
+                "id": 1,
+                "name": "Sample",
+                "author": "Somebody",
+                "genre": "Tales"
+            },
+            "book2": {
+                "id": 2,
+                "name": "Winter",
+                "author": "Ted"
+            }   
+        
+         
+        
+    }
+
+
+
+
+
